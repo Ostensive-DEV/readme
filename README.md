@@ -1,4 +1,4 @@
-<h2 align="left">Olá👋! Eu sou o Sandro e eu sou um desenvolvedor Fullstack em treinamento </h2>
+<h2 align="left">Olá👋! Eu sou o Sandro e eu sou um desenvolvedor Fullstack em treinamento! </h2>
 ###
 
 <div align="center">
